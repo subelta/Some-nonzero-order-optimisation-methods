@@ -1,11 +1,5 @@
 #include "OptimisedMinimum.h"
 
-double OptimisedMinimum :: fib(unsigned int n) {
-    if (n < 3) {
-        return 1;
-    }
-    return fib(n - 1) + fib(n - 2);
-}
 double OptimisedMinimum :: dfdx(double x) {
     return 4*x*x*x + 8*x - 32;
 }

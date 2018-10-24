@@ -11,7 +11,6 @@ private:
     double a;
     double b;
     double eps;
-    double fib(unsigned int n);
     double dfdx(double x);
     double d2fdx2(double x);
 
