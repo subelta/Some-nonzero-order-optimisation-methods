@@ -1,0 +1,3 @@
+X:/Docs/GitHub/Optim_hw2/cmake-build-debug/CMakeFiles/Optim_hw2.dir
+X:/Docs/GitHub/Optim_hw2/cmake-build-debug/CMakeFiles/edit_cache.dir
+X:/Docs/GitHub/Optim_hw2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

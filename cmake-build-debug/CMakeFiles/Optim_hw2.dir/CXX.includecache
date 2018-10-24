@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+X:/Docs/GitHub/Optim_hw2/OptimisedMinimum.cpp
+OptimisedMinimum.h
+X:/Docs/GitHub/Optim_hw2/OptimisedMinimum.h
+
+X:/Docs/GitHub/Optim_hw2/OptimisedMinimum.h
+iostream
+-
+math.h
+-
+
+X:/Docs/GitHub/Optim_hw2/main.cpp
+iostream
+-
+OptimisedMinimum.h
+X:/Docs/GitHub/Optim_hw2/OptimisedMinimum.h
+
